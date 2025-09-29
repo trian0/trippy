@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.trian0.trippy"
+    namespace = "com.trian0.viary"
     compileSdk = 36
 
     defaultConfig {
